@@ -78,6 +78,8 @@ print("The coefficient-correlation %0.4f"%r)
 
 ~~~
 
-# Results and Output : 
-![image](https://github.com/Dhanireddy-Amarnthreddy/FindingMarginalDistributions/assets/94165103/f55601e8-4113-41dd-8da1-6adb5cb1cccd)
+# Output : 
+![image](https://github.com/Dhanireddy-Amarnthreddy/FindingMarginalDistributions/assets/94165103/3be8e4d3-0c7d-44d6-a2df-427c39118fbc)
+# Result:
+Hence a program has been implemented to find marginal distributions and correation coefficient of joint probability mass funcition of two dimensional random variables.
 
